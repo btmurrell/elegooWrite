@@ -1,4 +1,12 @@
 
+THIS PROJECT!
+=============
+Link the ElegooCar project from https://github.com/btmurrell/elegoocar
+clone to your local, then link that project's libraries/ElegooCar directory
+into here.
+
+
+
 This directory is intended for the project specific (private) libraries.
 PlatformIO will compile them to static libraries and link to executable file.
 
